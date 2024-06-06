@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [remyinthecloud.com](remyinthecloud.com)
 
-- 💬 Ask me about **best devops practices and data**
+- 💬 Ask me about **AWS, best devops practices and data**
 
 - 📫 How to reach me **remy.paul@proton.me**
 
