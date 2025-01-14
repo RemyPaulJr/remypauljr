@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [the cloud resume challenge](https://github.com/remyinthecloud/The-Cloud-Resume-Challenge)
 
-- 🌱 I’m currently learning **Kubernetes, Machine Learning, Data Visualization**
+- 🌱 I’m currently learning **Kubernetes, Linux, and Setting up my HomeLab**
 
 - 👨‍💻 All of my projects are available at [remyinthecloud.com](remyinthecloud.com)
 
