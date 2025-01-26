@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remyinthecloud" alt="remyinthecloud" /></a> </p>
 
-- 🔭 I’m currently working on [the cloud resume challenge](https://github.com/remyinthecloud/The-Cloud-Resume-Challenge)
+- 🔭 I’m currently working on my website and my kubernetes homelab
 
 - 🌱 I’m currently learning **Kubernetes, Linux, and Setting up my HomeLab**
 
-- 👨‍💻 All of my projects are available at [remyinthecloud.com](remyinthecloud.com)
+- 👨‍💻 All of my projects are available here on my Github
 
 - 💬 Ask me about **AWS, best devops practices and data**
 
