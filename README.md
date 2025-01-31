@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remyinthecloud" alt="remyinthecloud" /></a> </p>
 
-- 🔭 I’m currently working on my website and my kubernetes homelab
-
+- 🔭 I’m currently working on my [website](https://github.com/remyinthecloud/rremyinthecloud.com) and my [kubernetes homelab](https://github.com/remyinthecloud/Kubernetes-Homelab)
+  
 - 🌱 I’m currently learning **Kubernetes, Linux, and Setting up my HomeLab**
 
 - 👨‍💻 All of my projects are available here on my Github
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **remy.paul@proton.me**
 
-- 📄 Know about my experiences [remyinthecloud.com](remyinthecloud.com)
+- 📄 Know about my experiences [remyinthecloud.com](https://www.remyinthecloud.com)
 
 - ⚡ Fun fact **I am a big basketball fan. Go knicks!**
 
