@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **remy.paul@proton.me**
 
-- 📄 Know about my experiences [remyinthecloud.com](https://www.remyinthecloud.com)
+- 📄 Know about my experiences [remyinthecloud.com](https://remyinthecloud.com)
 
 - ⚡ Fun fact **I am a big basketball fan. Go knicks!**
 
