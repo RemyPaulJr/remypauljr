@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30px">Hey, I'm Remy</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30px"> Remy Paul</h1>
 <p align="center">
   <a href="https://remyinthecloud.com">My Website</a> •
   <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a>
@@ -30,14 +30,10 @@ I don't just want to learn — I want to **apply, iterate, and share**. My GitHu
 
 ---
 
-### 🎯 I Live By
-
 - **Motto**: _"Build boldly, break safely, learn always."_
 - **Mission**: Help people and teams make sense of data to solve real-world problems.
   
 ---
-
-### 💡 Core Values
 
 - **Stay Curious** – Everything begins with a question  
 - **Respect the Process** – Clean data, clean code, clean mind  
@@ -47,14 +43,10 @@ I don't just want to learn — I want to **apply, iterate, and share**. My GitHu
 
 ---
 
-### 🌠 My North Star
-
 > "_You can't separate peace from freedom because no one can be at peace unless he has his freedom._"  
 > — Malcolm X.
 
 ---
-
-### 📈 Stats & Cool Stuff
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyinthecloud&theme=tokyonight" alt="GitHub Streak" />
