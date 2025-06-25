@@ -18,8 +18,7 @@ Hey! I'm Remy — I used to game for hours without ever thinking about what was 
 
 Now, I'm deep in the world of **data engineering**, **cloud architecture**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. Whether it’s using **Snowflake**, **AWS Glue**, **BigQuery**, or **dbt**, I’m all about **clarity, automation, and meaningful insights**.
 
-I don't just want to learn — I want to **apply, iterate, and share**. My GitHub is where my journey unfolds, from real-world projects to sharp scripts, dashboards, and everything in between.
-
+Checkout my (notes)[https://github.com/remyinthecloud/notes]
 ---
 
 ### Core Tools I Work With
