@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Remy <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30px"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30px">Hey, I'm Remy</h1>
 <p align="center">
   <a href="https://remyinthecloud.com">My Website</a> •
-  <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -57,11 +57,11 @@ I don't just want to learn — I want to **apply, iterate, and share**. My GitHu
 ### 📈 Stats & Cool Stuff
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remypaul&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyinthecloud&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=remypaul&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=remyinthecloud&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
