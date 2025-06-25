@@ -22,7 +22,7 @@ I don't just want to learn — I want to **apply, iterate, and share**. My GitHu
 
 ---
 
-### 🔥 Core Tools I Work With
+### Core Tools I Work With
 
 `Python` • `SQL` • `Docker` • `PostgreSQL` • `Google Cloud` (BigQuery, GCS, DataFlow) • `Airflow` • `dbt`  
 `Pandas` • `IAM` • `Azure` (DataFactory, Fabric) • `AWS` (S3, Glue, Athena, Lambda) • `Snowflake` • `Databricks`
