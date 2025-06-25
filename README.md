@@ -1,36 +1,69 @@
-<h1 align="center">Hi 👋, I'm Remy Paul</h1>
-<h3 align="center">A Data Analyst working in tech</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=remyinthecloud&label=Profile%20views&color=0e75b6&style=flat" alt="remyinthecloud" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=remyinthecloud" alt="remyinthecloud" /></a> </p>
-
-- 🔭 I’m currently working on **learning advanced sql**
-
-- 🌱 I’m currently learning **Data Analytics, Statistical Methods, Data Visualization**
-
-- 👨‍💻 All of my projects are available at [https://github.com/remyinthecloud?tab=repositories](https://github.com/remyinthecloud?tab=repositories)
-
-- 📝 I regularly write articles on [remyinthecloud.com](remyinthecloud.com)
-
-- 💬 Ask me about **data**
-
-- 📫 How to reach me **remy.paul@proton.me**
-
-- 📄 Know about my experiences [remyinthecloud.com](remyinthecloud.com)
-
-- ⚡ Fun fact **I'm a huge gamer and sports fanatic**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/remypauljr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remypauljr" height="30" width="40" /></a>
+<h1 align="center">Hey, I'm Remy <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30px"></h1>
+<p align="center">
+  <a href="https://remyinthecloud.com">My Website</a> •
+  <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a> •
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <i>From Homelabs to the Cloud: Building, Breaking, and Rebuilding for the Love of Data.</i>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=remyinthecloud&show_icons=true&locale=en&layout=compact" alt="remyinthecloud" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Never+Stops...;Data+Engineer;Always+Tinkering+with+New+Ideas;Building+One+Project+at+a+Time" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=remyinthecloud&show_icons=true&locale=en" alt="remyinthecloud" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=remyinthecloud&" alt="remyinthecloud" /></p>
+Hey! I'm Remy — I used to game for hours without ever thinking about what was behind the screen. But somewhere between building my first PC, self-hosting a server, and pulling my first API request, the spark hit.
+
+Now, I'm deep in the world of **data engineering**, **cloud architecture**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. Whether it’s using **Snowflake**, **AWS Glue**, **BigQuery**, or **dbt**, I’m all about **clarity, automation, and meaningful insights**.
+
+I don't just want to learn — I want to **apply, iterate, and share**. My GitHub is where my journey unfolds, from real-world projects to sharp scripts, dashboards, and everything in between.
+
+---
+
+### 🔥 Core Tools I Work With
+
+`Python` • `SQL` • `Docker` • `PostgreSQL` • `Google Cloud` (BigQuery, GCS, DataFlow) • `Airflow` • `dbt`  
+`Pandas` • `IAM` • `Azure` (DataFactory, Fabric) • `AWS` (S3, Glue, Athena, Lambda) • `Snowflake` • `Databricks`
+`Power BI` • `Looker Studio` • `Kafka` • `Linux` • `Git` • `VS Code` • `Apache Spark` • `Kubernetes` 
+
+---
+
+### 🎯 I Live By
+
+- **Motto**: _"Build boldly, break safely, learn always."_
+- **Mission**: Help people and teams make sense of data to solve real-world problems.
+  
+---
+
+### 💡 Core Values
+
+- **Stay Curious** – Everything begins with a question  
+- **Respect the Process** – Clean data, clean code, clean mind  
+- **Own the Outcome** – If it breaks, I learn; if it works, I build  
+- **Be Resourceful** – Don't wait for permission to figure it out  
+- **Lift Others Up** – Document, share, and support the community
+
+---
+
+### 🌠 My North Star
+
+> "_You can't separate peace from freedom because no one can be at peace unless he has his freedom._"  
+> — Malcolm X.
+
+---
+
+### 📈 Stats & Cool Stuff
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remypaul&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=remypaul&color=blueviolet" alt="Profile Views" />
+</p>
+
+---
+
+Feel free to connect — whether it’s about building a data pipeline, running a homelab, automating your workflow, or geeking out over keyboard shortcuts!
