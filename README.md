@@ -18,7 +18,7 @@ Hey! I'm Remy — I used to game for hours without ever thinking about what was 
 
 Now, I'm deep in the world of **data engineering**, **cloud architecture**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. Whether it’s using **Snowflake**, **AWS Glue**, **BigQuery**, or **dbt**, I’m all about **clarity, automation, and meaningful insights**.
 
-Check out my [notes](https://github.com/remyinthecloud/notes)—everything’s documented. From the tools and resources I rely on, to real-time progress on my projects and daily learnings as I go.
+Check out my [notes](https://github.com/remypauljr/notes)—everything’s documented. From the tools and resources I rely on, to real-time progress on my projects and daily learnings as I go.
 
 ---
 
@@ -49,11 +49,11 @@ Check out my [notes](https://github.com/remyinthecloud/notes)—everything’s d
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remyinthecloud&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=remypauljr&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=remyinthecloud&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=remypauljr&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
