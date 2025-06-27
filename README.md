@@ -16,7 +16,7 @@
 
 Hey! I'm Remy — I used to game for hours without ever thinking about what was behind the screen. But somewhere between building my first PC, self-hosting a server, and pulling my first API request, the spark hit.
 
-Now, I'm deep in the world of **data engineering**, **cloud architecture**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. I'm currently working on a [data pipeline](https://github.com/remypauljr/coingecko-googlecloudstorage-datapipeline) using a crypto API with Python, Google Cloud, Snowflake, and Airflow.
+Now, I'm deep in the world of **data engineering**, **cloud architecture**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. I'm currently working on a [data pipeline](https://github.com/remypauljr/coingeckoapi-gcs-snowflake-datapipeline) using a crypto API with Python, Google Cloud, Snowflake, and Airflow.
 
 Check out my [notes](https://github.com/remypauljr/notes)—everything’s documented. From the tools and resources I rely on, to real-time progress on my projects and daily learnings as I go.
 
