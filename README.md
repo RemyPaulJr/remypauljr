@@ -5,18 +5,14 @@
 </p>
 
 <p align="center">
-  <i>From Homelabs to the Cloud: Building, Breaking, and Rebuilding for the Love of Data.</i>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Never+Stops...;Data+Engineer;Always+Tinkering+with+New+Ideas;Building+One+Project+at+a+Time" />
 </p>
 
 ---
 
-Hey! I'm Remy — I used to game for hours without ever thinking about what was behind the screen. But somewhere between building my first PC, self-hosting a server, and pulling my first API request, the spark hit.
+Hey! I'm Remy — an IT Professional with 3 years of professional work experience in supporting Cloud Applications and local infrastructure.
 
-Now, I'm deep in the world of **data engineering**, **cloud architecture**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. I'm currently working on a [data pipeline](https://github.com/remypauljr/coingeckoapi-gcs-snowflake-datapipeline) using a crypto API with Python, Google Cloud, Snowflake, and Airflow.
+Now, I'm deep in the world of **data engineering**, **AI/ML LLMs**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. I'm currently working on a [data pipeline](https://github.com/remypauljr/coingeckoapi-gcs-snowflake-datapipeline) using a crypto API with Python, Google Cloud, Snowflake, and Airflow.
 
 Check out my [notes](https://github.com/remypauljr/notes)—everything’s documented. From the tools and resources I rely on, to real-time progress on my projects and daily learnings as I go.
 
@@ -27,25 +23,6 @@ Check out my [notes](https://github.com/remypauljr/notes)—everything’s docum
 `Python` • `SQL` • `Docker` • `PostgreSQL` • `Google Cloud` (BigQuery, GCS, DataFlow) • `Airflow` • `dbt`  
 `Pandas` • `IAM` • `Azure` (DataFactory, Fabric) • `AWS` (S3, Glue, Athena, Lambda) • `Snowflake` • `Databricks`
 `Power BI` • `Looker Studio` • `Kafka` • `Linux` • `Git` • `VS Code` • `Apache Spark` • `Kubernetes` 
-
----
-
-- **Motto**: _"Build boldly, break safely, learn always."_
-- **Mission**: Help people and teams make sense of data to solve real-world problems.
-  
----
-
-- **Stay Curious** – Everything begins with a question  
-- **Respect the Process** – Clean data, clean code, clean mind  
-- **Own the Outcome** – If it breaks, I learn; if it works, I build  
-- **Be Resourceful** – Don't wait for permission to figure it out  
-- **Lift Others Up** – Document, share, and support the community
-
----
-
-> "_You can't separate peace from freedom because no one can be at peace unless he has his freedom._"  
-> — Malcolm X.
-
 ---
 
 <p align="center">
