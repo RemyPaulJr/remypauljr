@@ -18,13 +18,6 @@ Check out my [notes](https://github.com/remypauljr/notes)—everything’s docum
 
 ---
 
-### Core Tools I Work With
-
-`Python` • `SQL` • `Docker` • `PostgreSQL` • `Google Cloud` (BigQuery, GCS, DataFlow) • `Airflow` • `dbt`  
-`Pandas` • `IAM` • `Azure` (DataFactory, Fabric) • `AWS` (S3, Glue, Athena, Lambda) • `Snowflake` • `Databricks`
-`Power BI` • `Looker Studio` • `Kafka` • `Linux` • `Git` • `VS Code` • `Apache Spark` • `Kubernetes` 
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=remypauljr&theme=tokyonight" alt="GitHub Streak" />
 </p>
