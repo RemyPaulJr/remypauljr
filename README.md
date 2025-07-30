@@ -12,10 +12,7 @@ Hey! I'm Remy — an IT Professional with 3 years of professional work experienc
 
 Now, I'm deep in the world of **data engineering**, **AI/ML LLMs**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. 
 
-### **Projects:**
-- [ ] I'm currently working on a [data pipeline](https://github.com/remypauljr/coingeckoapi-gcs-snowflake-datapipeline) using a crypto API with Python, Google Cloud, Snowflake, and Airflow.
-- [x] [PostgreSQL DataWarehouse](https://github.com/RemyPaulJr/Etsy-SQL-Data-Warehouse) inside a docker container - I did this project to learn about the ETL (Extract, Transform, Load) process from CSV file as data sources, to a PostgreSQL data warehouse inside a docker container, and to a BI tool for dashboarding.
-I also learned about the Medallion Architecture where I stored the raw data (bronze layer), cleaned & validated data (silver layer), and business-ready data (gold layer).
+**Come** check out the current project I'm working on cleaning a [cafe's sales data](https://github.com/remypauljr/cafe_sales) and providing key insights! 
 
 ### **Notes**
 Check out my [notes](https://github.com/remypauljr/notes)—everything’s documented. From the tools and resources I rely on, to real-time progress on my projects and daily learnings as I go.
