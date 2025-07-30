@@ -12,7 +12,7 @@ Hey! I'm Remy — an IT Professional with 3 years of professional work experienc
 
 Now, I'm deep in the world of **data engineering**, **AI/ML LLMs**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. 
 
-**Come** check out the current project I'm working on cleaning a [cafe's sales data](https://github.com/remypauljr/cafe_sales) and providing key insights! 
+### **Come** check out the current project I'm working on cleaning a [cafe's sales data](https://github.com/remypauljr/cafe_sales) and providing key insights! 
 
 ### **Notes**
 Check out my [notes](https://github.com/remypauljr/notes)—everything’s documented. From the tools and resources I rely on, to real-time progress on my projects and daily learnings as I go.
