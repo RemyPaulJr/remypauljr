@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Never+Stops...;Data+Engineer;Always+Tinkering+with+New+Ideas;Building+One+Project+at+a+Time" />
 </p>
 
-Hey! I'm Remy — an IT Professional with 3 years of professional work experience in supporting Cloud Applications and local infrastructure.
+Hey! I'm Remy — an IT Professional with 3 years of professional work experience in supporting Data, Pipelines, Cloud Applications and local infrastructure.
 
 Now, I'm deep in the world of **data engineering**, **AI/ML LLMs**, and **devops**, turning raw data into clean dashboards, spinning up infra with code, and documenting every bit of it as I go. 
 
