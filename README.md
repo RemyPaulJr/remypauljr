@@ -4,10 +4,6 @@
   <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learning+Never+Stops...;GoLang+Rules+...;;Building+One+Project+at+a+Time++..." />
-</p>
-
 Hey! I'm Remy — an IT Professional with 5 years of professional work experience in supporting, developing, and upscaling Cloud Applications and local infrastructure.
 
 Currently learning GoLang in hopes of becoming a Go/Backend Systems Devloper
