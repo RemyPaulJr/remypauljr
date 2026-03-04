@@ -6,6 +6,6 @@
 
 Hey! I'm Remy — an IT Professional with 5 years of professional work experience in supporting, developing, and upscaling Cloud Applications and local infrastructure.
 
-Currently learning GoLang in hopes of becoming a Go/Backend Systems Devloper
+Currently learning Go in hopes of becoming a Go/Backend Systems Devloper
 
 Feel free to connect with me using LinkedIn, Discord, or my by emailing me!
