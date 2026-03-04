@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a>
 </p>
 
-Hey! I'm Remy — an IT Professional with 5 years of professional work experience in supporting, developing, and upscaling Cloud Applications and local infrastructure.
+Hey! I'm Remy — an IT Professional with experience in supporting, developing, and upscaling Cloud Applications and local infrastructure.
 
-Currently learning Go in hopes of becoming a Go/Backend Systems Devloper
+Currently learning Go in hopes of becoming a Go/Backend Systems Devloper, and getting my Bachelor's Degree in CS from Valencia College.
 
 Feel free to connect with me using LinkedIn, Discord, or my by emailing me!
