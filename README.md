@@ -4,8 +4,11 @@
   <a href="https://www.linkedin.com/in/remypauljr/">LinkedIn</a>
 </p>
 
-Hey! I'm Remy — an IT Professional with experience in supporting, developing, and upscaling Cloud Applications and data pipelines.
+### My Experience
+IT Professional with experience in supporting, developing, and upscaling Cloud Applications and data pipelines.
 
+### What I'm Working On
 Currently learning everything Data, AI & ML in hopes of landing a Data Engineering internship, and getting my Bachelor's Degree in CS from Valencia College.
 
+### Tap In
 Feel free to connect with me using LinkedIn, Discord, or my by emailing me!
