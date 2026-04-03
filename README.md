@@ -5,10 +5,8 @@
 </p>
 
 ### My Experience
-IT Professional with experience in supporting, developing, and upscaling Cloud Applications and data pipelines.
+Data Professional with experience building data infrastructure, and derviing business insights. Cloud focus is primarily AWS with experiencing using GCP Big Query and Azure Databricks.
 
-### What I'm Working On
-Currently learning everything Data, AI & ML in hopes of landing a Data Engineering internship, and getting my Bachelor's Degree in CS from Valencia College.
+Currently learning everything Data, AI & ML in hopes of landing a Data Engineering internship, and getting my Bachelor's Degree in Cloud Computing from Valencia College.
 
-### Tap In
 Feel free to connect with me using LinkedIn, Discord, or my by emailing me!
