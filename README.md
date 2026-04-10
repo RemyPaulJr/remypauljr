@@ -7,6 +7,6 @@
 ### My Experience
 Data Professional with experience building data infrastructure, and derviing business insights. Cloud focus is primarily AWS with experiencing using GCP Big Query and Azure Databricks.
 
-Currently learning everything Data, AI & ML in hopes of landing a Data Engineering internship, and getting my Bachelor's Degree in Cloud Computing from Valencia College.
+Currently learning everything Data, DevOps & AI in hopes of landing a Data Engineering/DevOps internship, and getting my Bachelor's Degree in Cloud Computing from Valencia College.
 
 Feel free to connect with me using LinkedIn, Discord, or my by emailing me!
